@@ -125,7 +125,7 @@ python main.py
 
 ## 📬 Developer
 
-Created by: [Your Name]  
+Created by: [Mohamed Ahmed Abu Zamil]  
 GitHub: [https://github.com/MohamedAbuZamil](https://github.com/MohamedAbuZamil)
 
 ---
